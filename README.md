@@ -1,3 +1,3 @@
 # sos_game
 
-NodeJS Game
+NodeJS 2players Game
